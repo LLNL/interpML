@@ -30,8 +30,8 @@ The code in this respository is distributed under the terms of the MIT license.
 
 All new contributions must be made under the MIT license.
 
-See [LICENSE](https://github.com/ddd/blob/main/LICENSE) and
-[NOTICE](https://github.com/ddd/blob/main/NOTICE) for details.
+See [LICENSE](https://github.com/LLNL/interpML/blob/main/LICENSE.md) and
+[NOTICE](https://github.com/LLNL/interpML/blob/main/NOTICE.md) for details.
 
 SPDX-License-Identifier: (MIT)
 
