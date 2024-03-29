@@ -1,0 +1,3 @@
+[submodule "interpml/DelaunaySparse"]
+	path = interpml/DelaunaySparse
+	url = https://github.com/vtopt/DelaunaySparse
