@@ -22,6 +22,30 @@ To make interpolation methods importable, use the ``setup.py`` file:
 python3 -m pip install -e .
 ```
 
+Citation information
+----------------
+If you are referring to this code in a publication, please cite the following paper:
+
+Tyler Chang, Andrew Gillette, and Romit Maulik.  *Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning*.  Submitted.  2024.  LLNL–JRNL–846568.
+
+~~~~
+@article{CGM2024,
+  author = {Chang, Tyler and Gillette, Andrew and Maulik, Romit},
+  title = {Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning},
+  journal = {Submitted. arXiv:2404.03586},
+  year = {2024},
+}
+~~~~
+
+If you wish to cite the code specifically, please use:
+
+~~~~
+DOE CODE ID: #125566
+
+[ more details will be added soon ]
+~~~~
+
+The DOI for this repository is: [ will be added soon ]
 
 License
 ----------------
